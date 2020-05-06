@@ -1,0 +1,12 @@
+---
+:id: 36716692
+:submitters:
+- :name: Het Banker
+  :email: hbanke2@uic.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-05-02 04:59:00.580950000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-05-01 21:59:00.580950000 Z
+:status: processed
+:score: 14.0
